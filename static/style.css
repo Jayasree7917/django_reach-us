@@ -1,0 +1,32 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    background-color: #8bb0d8;
+  }
+ .text-center{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px; 
+    font-size: 25px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #beb1b1;
+    border-radius: 15px;
+    margin-bottom: 10px; 
+  }
+  
